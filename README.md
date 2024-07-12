@@ -1,4 +1,3 @@
-# Drinking_Water_Potability_Prediction
 
 # Drinking Water Potability Prediction
 
